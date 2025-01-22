@@ -120,4 +120,4 @@ Este proyecto está licenciado bajo la [MIT License](LICENSE).
 ---
 
 ### ❤️ Autor
-Desarrollado por [Lugones Nicolas Ezequiel]([https://github.com/lugonesnicolas).
+Desarrollado por [Lugones Nicolas Ezequiel](https://github.com/lugonesnicolas).
